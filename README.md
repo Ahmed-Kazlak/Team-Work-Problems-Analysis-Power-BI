@@ -33,3 +33,5 @@ Each team member filled out a table in an Excel file, specifying the types of pr
 - Department Level problems are the most significant, with an average of 52%.
 - Company Level problems constitute 32%.
 - The stacked column chart helped highlight variations in how different members weight these problems, providing a clear view of problem distribution across the team.
+# 📊 Dashboard:
+![Alt text](https://github.com/Ahmed-Kazlak/Team-Work-Problems-Analysis-Power-BI/blob/main/Team%20Work%20Problems%20Analysis.png)
